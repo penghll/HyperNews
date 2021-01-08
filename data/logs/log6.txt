@@ -1,0 +1,6 @@
+time:2019.10.23-12:29:01  epoch 0 train_loss:1800.1278 test_loss:813.3611 train_auc:0.4865 test_auc:0.4884 train_f1_score:0.4949 test_f1_score:0.5135 train_pre:0.4849 test_pre:0.4939 train_recall:0.5054 test_recall:0.5347 
+time:2019.10.23-12:45:05  epoch 1 train_loss:845.7786 test_loss:440.0237 train_auc:0.9764 test_auc:0.9667 train_f1_score:0.9673 test_f1_score:0.9275 train_pre:0.9951 test_pre:0.9531 train_recall:0.9410 test_recall:0.9032 
+time:2019.10.23-13:01:06  epoch 2 train_loss:824.4174 test_loss:431.0257 train_auc:0.9783 test_auc:0.9698 train_f1_score:0.9696 test_f1_score:0.9303 train_pre:0.9950 test_pre:0.9535 train_recall:0.9455 test_recall:0.9082 
+time:2019.10.23-13:17:06  epoch 3 train_loss:737.6962 test_loss:400.2234 train_auc:0.9778 test_auc:0.9739 train_f1_score:0.9694 test_f1_score:0.9584 train_pre:0.9953 test_pre:0.9883 train_recall:0.9448 test_recall:0.9303 
+time:2019.10.23-13:33:06  epoch 4 train_loss:725.6140 test_loss:380.1595 train_auc:0.9800 test_auc:0.9760 train_f1_score:0.9712 test_f1_score:0.9639 train_pre:0.9953 test_pre:0.9945 train_recall:0.9482 test_recall:0.9351 
+time:2019.10.23-13:49:05  epoch 5 train_loss:716.2269 test_loss:356.7276 train_auc:0.9803 test_auc:0.9754 train_f1_score:0.9712 test_f1_score:0.9641 train_pre:0.9954 test_pre:0.9947 train_recall:0.9482 test_recall:0.9353 

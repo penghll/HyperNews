@@ -1,0 +1,4 @@
+time:2019.10.22-11:08:57  epoch 0   train_loss: 639.2468   test_loss: 639.2468   train_auc: 0.4928   test_auc: 0.4928    train_f1_score: 0.3128   test_f1_score: 0.3128  
+time:2019.10.22-11:29:25  epoch 1   train_loss: 591.4787   test_loss: 591.4787   train_auc: 0.8556   test_auc: 0.8556    train_f1_score: 0.8524   test_f1_score: 0.8524  
+time:2019.10.22-11:49:51  epoch 2   train_loss: 728.0878   test_loss: 728.0878   train_auc: 0.8817   test_auc: 0.8817    train_f1_score: 0.8766   test_f1_score: 0.8766  
+time:2019.10.22-12:10:18  epoch 3   train_loss: 592.4570   test_loss: 592.4570   train_auc: 0.8455   test_auc: 0.8455    train_f1_score: 0.8033   test_f1_score: 0.8033  
