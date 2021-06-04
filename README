@@ -4,4 +4,4 @@ $ cd src
 $ python main.py
 
 Some data files are too large to upload to github, so we upload them to the Baidu Netdisk which can be download from "https://pan.baidu.com/s/1lVdaM4zxhFS35gzLjsUtzQ" by the code "7ge9".
-Raw dataset could be download from "http://reclab.idi.ntnu.no/dataset/" while details of news articles should email author of this paper([The Adressa dataset for news recommendation](https://dl.acm.org/doi/10.1145/3106426.3109436)) to acquire. 
+Raw dataset could be download from "http://reclab.idi.ntnu.no/dataset/" while details of news articles should email author of this paper [The Adressa dataset for news recommendation](https://dl.acm.org/doi/10.1145/3106426.3109436) to acquire. 
